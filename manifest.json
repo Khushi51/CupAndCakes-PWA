@@ -1,0 +1,28 @@
+{
+    "name": "Catery Expert",
+    "short_name": "CateryExpert",
+    "start_url" : "/index.html",
+    "display": "standalone",
+    "background_color": "pink",
+    "theme_color": "lightpink",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img-cart/doughnut-1.jpeg",
+            "type": "image/jpeg",
+            "sizes": "50x50"
+        },
+        {
+            "src": "/img/cake-2.jpeg",
+            "type": "image/jpeg",
+            "sizes": "800x600"
+        },
+        {
+            "src": "/img/cake-4.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+        
+    ]
+
+}
